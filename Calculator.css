@@ -1,0 +1,15 @@
+input
+{
+    font-size: 25px;
+}
+input[type="text"]
+{
+    width: 250px;
+    text-align: right;
+}
+input[type="button"]
+{
+    height: 60px;
+    width:60px;
+    padding:5px;
+}
